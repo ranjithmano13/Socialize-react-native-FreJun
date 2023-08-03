@@ -3,6 +3,11 @@
 ## Built with React Native
 
 >**Deployable Apk can be found in release folder**
+## for Login username and password use the user data from https://dummyjson.com/, or you can use the given data below
+
+> ## username : kminchelle
+> ## password : 0lelplR
+
 
 ## Screens
 
